@@ -1,0 +1,9 @@
+Understanding about bash termainal 
+Files have extension ( .sh )
+echo - just like console.log 
+Numeric things are printed using $(()) rest all are printed using $
+pwd - print working directory 
+cd - change directory 
+ls - list all the files in the directory 
+
+
