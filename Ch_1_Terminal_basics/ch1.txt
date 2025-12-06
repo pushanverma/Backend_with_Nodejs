@@ -5,5 +5,13 @@ Numeric things are printed using $(()) rest all are printed using $
 pwd - print working directory 
 cd - change directory 
 ls - list all the files in the directory 
+touch - touch command is used to create a file 
+mkdir - make directory is used to create a new folder .
+cp- copy command 
+mv - move command (just like cut and paste )
+rm - remove file 
+rmdir - remove directory (only applicable for empty folders)
+rm -r (remove recursive) - is used to remove the folder that have folders and files in it . 
+
 
 
